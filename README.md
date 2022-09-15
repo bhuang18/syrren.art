@@ -1,6 +1,6 @@
 # Phantom By Themefisher
 
-Phantom is an exciting professional Bootstrap resume template. It’s exclusively crafted to convince employers impressively. This template is best for showcasing your professional, educational, and those details that keep you a step ahead in the competition. testing testing
+Phantom is an exciting professional Bootstrap resume template. It’s exclusively crafted to convince employers impressively. This template is best for showcasing your professional, educational, and those details that keep you a step ahead in the competition. 
 
 <!-- demo -->
 ## Example Site
